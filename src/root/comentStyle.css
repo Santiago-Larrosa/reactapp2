@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+.titulazo {
+    font-size: 100px;
+    color: rgb(11, 182, 88);
+    position: absolute;
+    top:-70px;
+    left:200px;
+}
+.titulazo1 {
+    font-size: 100px;
+    color: rgb(11, 182, 88);
+    position: absolute;
+    opacity: 50%;
+    top:-70px;
+    left:210px;
+}
+.titulazo2 {
+    font-size: 100px;
+    color: rgb(11, 182, 88);
+    position: absolute;
+    opacity: 25%;
+    top:-70px;
+    left:220px;
+}
+.PostComent {
+    color:rgb(126, 124, 124);
+    text-align: center;
+    box-shadow: 10px 10px 10px grey;
+    font-size: 30px;
+    opacity: 75%;
+    width:100%;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.InNom{
+    border-radius: 10px;
+    background-color: rgb(202, 200, 200);
+    border-color: rgb(182, 180, 180);
+    color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    height: 50px;
+    width: 50%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+}
+.InMens{
+    border-radius: 10px;
+    background-color: rgb(202, 200, 200);
+    border-color: rgb(182, 180, 180);
+    color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    height: 150px;
+    width: 90%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+}
+.Botonation {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:grey;
+    margin-left: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+.Coment {
+    font-size: 28px;
+    color: grey;
+    background-color: #dfdede;
+    width: 95%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin-bottom: 10px;
+}
+.botonsito {
+    color: rgb(28, 182, 143);
+    font-size: 30px;
+    box-shadow: 5px 5px 5px grey;
+}
+.imagen2 {
+    width: 100px;
+    position: absolute;
+    right: 50px;
+}
+.imagen1 {
+    width:100px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.ElSuperDiv {
+    width:100%;
+    position: absolute;
+}
+.negro {
+    color:black;
+}
+.EsUnComentario{
+    margin-left: 20px;
+    font-size: 30px;
+
+}
+.AAA {
+    margin-left: 20px;
+}

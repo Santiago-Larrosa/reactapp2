@@ -1,0 +1,125 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+    color: rgba(99, 89, 89, 0.87);
+    background-color: #dfdede;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dfdede;
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
+.titulos {
+    font-size:180px;
+    color: aqua;
+    opacity: 25%;
+}
+.Create {
+   font-size:50px;
+   color: aquamarine;
+   position:absolute;
+   left:900px;
+   top:400px;
+}
+.subtitulo {
+    font-size: 50px;
+    color:blue;
+    position:absolute;
+    opacity: 25%;
+   left:295px;
+   top:350px;
+}
+.subtitulo1 {
+    font-size: 50px;
+    color:blue;
+    opacity: 50%;
+    position:absolute;
+   left:290px;
+   top:350px;
+}
+.subtitulo2 {
+    font-size: 50px;
+    color:blue;
+    opacity:100%;
+    position:absolute;
+   left:285px;
+   top:350px;
+}
+.tituloPost {
+    font-size:24px;
+}
+.Post {
+    
+    
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px grey;
+    text-align: center;
+    border: 1px solid #ccc;
+    width:100%; 
+    margin-bottom: 30px;
+    margin-left:-10px   
+    
+  
+    
+}
+.Boton {
+    border-radius:10px;
+    text-align: center;
+    width:150px;
+    height: 50px;
+    display: flex;
+    margin: 30px;
+    box-shadow: 5px 5px 5px rgb(158, 158, 158);
+    background-color: #ccc;
+    color: antiquewhite;
+    text-decoration: none;
+
+}
+.Head {
+    background-color: #545e68;
+    top:0px;
+    position: absolute;
+    height: 120px;
+    width: 100%;
+    box-shadow: 10px 10px 10px grey;
+}
+.imagen {
+    width:100px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.AlgunTitulo {
+    
+    color:white;
+}
+.imagen2 {
+    width: 100px;
+    position: absolute;
+    right: 50px;
+}
+.UnaCosa{
+    height: 100px;
+    width: 100%;
+}
+
+.sidebar {
+    width: 100%;
+        position: absolute;
+}
+.EsteDiv {
+    width: 100%;
+}
